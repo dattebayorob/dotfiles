@@ -9,11 +9,11 @@ Global {
   width=100
   height=30
   transparent=1
-  tintcolor=#959595
-  alpha=85
+  tintcolor=#000000
+  alpha=255
   setdocktype=0
   setpartialstrut=1
-  usefontcolor=0
+  usefontcolor=1
   fontcolor=#ffffff
   usefontsize=0
   fontsize=10
@@ -25,11 +25,7 @@ Global {
 Plugin {
   type=space
   Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
+    Size=5
   }
 }
 Plugin {
@@ -64,16 +60,7 @@ Plugin {
 Plugin {
   type=space
   Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
+    Size=10
   }
 }
 Plugin {
@@ -91,31 +78,18 @@ Plugin {
     Button {
       id=visual-studio-code.desktop
     }
+    Button {
+      id=sublime_text_3.desktop
+    }
+    Button {
+      id=pgAdmin4.desktop
+    }
   }
 }
 Plugin {
   type=space
   Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
+    Size=10
   }
 }
 Plugin {
@@ -137,32 +111,29 @@ Plugin {
   }
 }
 Plugin {
-  type=netstat
+  type=space
   Config {
+    Size=5
+  }
+}
+Plugin {
+  type=tray
+  Config {
+  }
+}
+Plugin {
+  type=dclock
+  Config {
+    ClockFmt=%R
+    TooltipFmt=%A %x
+    BoldFont=0
+    IconOnly=0
+    CenterText=0
   }
 }
 Plugin {
   type=space
   Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
-  }
-}
-Plugin {
-  type=space
-  Config {
+    Size=5
   }
 }

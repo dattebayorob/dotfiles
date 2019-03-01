@@ -6,3 +6,6 @@ lxpanel &
 
 # Notifications daemon
 dunst &
+
+# WICD tray
+wicd-client --tray &
