@@ -185,12 +185,12 @@
     </keybind>
     <keybind key="W-Up">
     	<action name="Execute">
-    		<command>~/Documentos/packages/linux-scripts/xrandr-utils/xrandr-brightness --increase</command>
+    		<command>~/Documents/packages/linux-scripts/xrandr-utils/xrandr-brightness --increase</command>
     	</action>
     </keybind>
     <keybind key="W-Down">
     	<action name="Execute">
-    		<command>~/Documentos/packages/linux-scripts/xrandr-utils/xrandr-brightness --decrease</command>
+    		<command>~/Documents/packages/linux-scripts/xrandr-utils/xrandr-brightness --decrease</command>
     	</action>
     </keybind>
     <!-- Keybindings for windows -->
@@ -210,19 +210,19 @@
     <!-- Launch scrot when Print is pressed -->
     <keybind key="Print">
       <action name="Execute">
-        <command>~/Documentos/packages/linux-scripts/utils/scrotClient</command>
+        <command>~/Documents/packages/linux-scripts/utils/scrotClient</command>
       </action>
     </keybind>
     <!-- Take a print of focused window-->
     <keybind key="A-Print">
       <action name="Execute">
-        <command>~/Documentos/packages/linux-scripts/utils/scrotClient --current</command>
+        <command>~/Documents/packages/linux-scripts/utils/scrotClient --current</command>
       </action>
     </keybind>
     <!-- Take a print of selected area-->
     <keybind key="S-A-Print">
       <action name="Execute">
-        <command>~/Documentos/packages/linux-scripts/utils/scrotClient --partial</command>
+        <command>~/Documents/packages/linux-scripts/utils/scrotClient --partial</command>
       </action>
     </keybind>
     <!-- Keybindings for window switching -->
