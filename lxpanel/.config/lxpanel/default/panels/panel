@@ -42,16 +42,16 @@ Plugin {
     }
     item {
       command=logout
-      image=gnome-logout
+      image=application-exit-symbolic
     }
     item {
       name=Reiniciar
-      image=gnome-reboot
+      image=view-refresh-symbolic
       action=systemctl -i reboot
     }
     item {
       name=Desligar
-      image=gnome-poweroff
+      image=system-shutdown-symbolic
       action=systemctl -i poweroff
     }
     image=/home/administrador/.config/lxpanel/default/assets/icons/arch-logo.png
