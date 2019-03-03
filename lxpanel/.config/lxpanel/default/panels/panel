@@ -15,8 +15,7 @@ Global {
   setpartialstrut=1
   usefontcolor=1
   fontcolor=#ffffff
-  usefontsize=0
-  fontsize=10
+  usefontsize=6
   background=0
   backgroundfile=/usr/share/lxpanel/images/background.png
   align=left
@@ -126,7 +125,7 @@ Plugin {
   Config {
     ClockFmt=%R
     TooltipFmt=%A %x
-    BoldFont=0
+    BoldFont=1
     IconOnly=0
     CenterText=0
   }
