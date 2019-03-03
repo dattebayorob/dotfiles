@@ -2,9 +2,9 @@
 copyIcons(){
 	sigInt=$1
 	sig=$2
-	icons="both-$sig-signal-lock.png both-$sig-signal.png $sig-signal-lock.png $sig-signal.png idle-$sig-signal-lock.png idle-$sig-signal.png receiving-$sig-signal-lock.png receiving-$sig-signal.png transmitting-$sig-signal-lock.png transmitting-$sig-signal.png"
+	icons="both-$sig-signal-lock.svg both-$sig-signal.svg $sig-signal-lock.svg $sig-signal.svg idle-$sig-signal-lock.svg idle-$sig-signal.svg receiving-$sig-signal-lock.svg receiving-$sig-signal.svg transmitting-$sig-signal-lock.svg transmitting-$sig-signal.svg"
 	for ic in $icons; do
-		cp signal-$sigInt.png $ic;
+		cp signal-$sigInt.svg $ic;
 	done
 }
 copyIcons "25" "bad"
