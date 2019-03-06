@@ -2,7 +2,7 @@
 # Use preference dialog in lxpanel to adjust config when you can.
 
 Global {
-  edge=bottom
+  edge=top
   allign=left
   margin=0
   widthtype=percent
@@ -57,38 +57,13 @@ Plugin {
   }
 }
 Plugin {
-  type=space
+  type=dclock
   Config {
-    Size=10
-  }
-}
-Plugin {
-  type=launchbar
-  Config {
-    Button {
-      id=google-chrome.desktop
-    }
-    Button {
-      id=firefox.desktop
-    }
-    Button {
-      id=spring-tool-suite.desktop
-    }
-    Button {
-      id=visual-studio-code.desktop
-    }
-    Button {
-      id=sublime_text_3.desktop
-    }
-    Button {
-      id=pgAdmin4.desktop
-    }
-  }
-}
-Plugin {
-  type=space
-  Config {
-    Size=10
+    ClockFmt=%R
+    TooltipFmt=%A %x
+    BoldFont=1
+    IconOnly=0
+    CenterText=0
   }
 }
 Plugin {
@@ -118,16 +93,6 @@ Plugin {
 Plugin {
   type=tray
   Config {
-  }
-}
-Plugin {
-  type=dclock
-  Config {
-    ClockFmt=%R
-    TooltipFmt=%A %x
-    BoldFont=1
-    IconOnly=0
-    CenterText=0
   }
 }
 Plugin {
