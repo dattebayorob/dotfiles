@@ -7,5 +7,13 @@ lxpanel &
 # Notifications daemon
 dunst &
 
+# Mount
+udiskie -t &
+sleep 1
+
 # WICD tray
 wicd-client --tray &
+sleep 1
+
+# Battery icon
+cbatticon &
