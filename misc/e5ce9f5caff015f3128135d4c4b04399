@@ -1,0 +1,485 @@
+1.2
+lxde-applications.menu
+10
+D/home/administrador/.local/share/desktop-directories
+D/usr/local/share/desktop-directories
+D/usr/share/desktop-directories
+D/home/administrador/.local/share/applications
+D/usr/local/share/applications
+D/usr/share/applications
+D/etc/xdg/menus/applications-merged
+D/home/administrador/.config/menus/applications-merged
+F/home/administrador/.config/menus/lxde-applications.menu
+F/etc/xdg/menus/lxde-applications.menu
+MATE;
++Applications
+Applications
+Applications
+applications-other
+lxde-menu-applications.directory
+2
+0
++Accessories
+Accessories
+Desktop accessories
+applications-accessories
+lxde-utility.directory
+2
+0
+-org.gnome.FileRoller.desktop
+Archive Manager
+Create and modify an archive
+file-roller
+
+5
+
+file-roller %U
+2
+-5
+file-roller
+
+GTK;GNOME;Utility;Archiving;Compression;X-GNOME-Utilities
+zip,tar,extract,unpack
+-postman.desktop
+Postman
+Build, test, and document your APIs faster
+postman
+
+5
+
+postman %U
+2
+0
+
+/opt/postman
+Development;Utility
+
+-visual-studio-code.desktop
+Visual Studio Code
+Editor for building and debugging modern web and cloud applications
+visual-studio-code
+
+5
+
+/opt/visual-studio-code/code %f
+2
+0
+
+
+Development;WebDevelopment;IDE;Utility;TextEditor
+
+
++Graphics
+Graphics
+Graphics applications
+applications-graphics
+lxde-graphics.directory
+2
+0
+-gimp.desktop
+GNU Image Manipulation Program
+Create images and edit photographs
+gimp
+
+5
+Image Editor
+gimp-2.10 %U
+2
+0
+gimp-2.10
+
+Graphics;2DGraphics;RasterGraphics;GTK
+GIMP,graphic,design,illustration,painting
+
++Internet
+Internet
+Programs for Internet access such as web and email
+applications-internet
+lxde-network.directory
+2
+0
+-bssh.desktop
+Avahi SSH Server Browser
+Browse for Zeroconf-enabled SSH Servers
+network-wired
+
+5
+
+/usr/bin/bssh
+0
+0
+
+
+GNOME;Network
+
+-bvnc.desktop
+Avahi VNC Server Browser
+Browse for Zeroconf-enabled VNC Servers
+network-wired
+
+5
+
+/usr/bin/bvnc
+0
+0
+
+
+GNOME;Network
+
+-google-chrome.desktop
+Google Chrome
+Access the Internet
+google-chrome
+
+5
+Web Browser
+/usr/bin/google-chrome-stable %U
+2
+0
+
+
+Network;WebBrowser
+
+-wicd.desktop
+Wicd
+Manage Wired/Wireless Networks
+wicd-gtk
+
+5
+Network Manager
+/usr/bin/wicd-client
+0
+0
+
+
+Network
+
+
++Development
+Programming
+Tools for software development
+applications-development
+lxde-development.directory
+2
+0
+-electron.desktop
+Electron
+
+electron
+
+5
+
+electron %u
+2
+0
+
+
+Development;GTK
+
+-jmc-jdk8.desktop
+Java 8 Mission Control
+
+sun-java-jdk8
+
+5
+
+/usr/lib/jvm/java-8-jdk/bin/jmc
+2
+0
+
+
+Development;Java
+
+-jconsole-jdk8.desktop
+Java 8 Monitoring and Management Console
+
+sun-java-jdk8
+
+5
+
+/usr/lib/jvm/java-8-jdk/bin/jconsole
+2
+0
+
+
+Development;Java
+
+-jvisualvm-jdk8.desktop
+Java 8 VisualVM
+
+sun-java-jdk8
+
+5
+Java 8 Monitoring and Performance Monitoring Tool
+/usr/lib/jvm/java-8-jdk/bin/jvisualvm
+2
+0
+
+
+Development;Java
+
+-pgAdmin4.desktop
+pgAdmin 4
+PostgreSQL Tools
+pgAdmin4
+
+5
+
+/usr/lib/pgadmin4/runtime/pgAdmin4
+0
+0
+
+
+Application;Development;Database
+database,db,sql,query,administration,development
+-postman.desktop
+Postman
+Build, test, and document your APIs faster
+postman
+
+5
+
+postman %U
+2
+0
+
+/opt/postman
+Development;Utility
+
+-spring-tool-suite.desktop
+SpringSource Tool Suite
+
+spring-tool-suite
+
+5
+
+STS
+2
+0
+
+
+Development;IDE;Java
+
+-sublime_text_3.desktop
+Sublime Text 3 Dev
+Sophisticated text editor for code, markup and prose
+sublime-text
+
+5
+Text Editor
+subl3 %F
+2
+0
+
+
+TextEditor;Development
+
+-visual-studio-code.desktop
+Visual Studio Code
+Editor for building and debugging modern web and cloud applications
+visual-studio-code
+
+5
+
+/opt/visual-studio-code/code %f
+2
+0
+
+
+Development;WebDevelopment;IDE;Utility;TextEditor
+
+
++Multimedia
+Sound & Video
+Multimedia menu
+applications-multimedia
+lxde-audio-video.directory
+2
+0
+-pavucontrol.desktop
+PulseAudio Volume Control
+Adjust the volume level
+multimedia-volume-control
+
+5
+Volume Control
+pavucontrol
+2
+0
+
+
+AudioVideo;Audio;Mixer;GTK
+
+-qv4l2.desktop
+Qt V4L2 test Utility
+Allow testing Video4Linux devices
+qv4l2
+
+5
+
+qv4l2
+0
+0
+
+
+AudioVideo
+video,grabber,V4L
+-qvidcap.desktop
+Qt V4L2 video capture utility
+Viewer for video capture
+qvidcap
+
+5
+
+qvidcap
+0
+0
+
+
+AudioVideo
+video,grabber,V4L
+-vlc.desktop
+VLC media player
+Read, capture, broadcast your multimedia streams
+vlc
+
+5
+Media player
+/usr/bin/vlc --started-from-file %U
+0
+0
+/usr/bin/vlc
+
+AudioVideo;Player;Recorder
+Player,Capture,DVD,Audio,Video,Server,Broadcast
+
++System
+System Tools
+System configuration and monitoring
+applications-system
+lxde-system-tools.directory
+2
+0
+-avahi-discover.desktop
+Avahi Zeroconf Browser
+Browse for Zeroconf services available on your network
+network-wired
+
+5
+
+/usr/bin/avahi-discover
+0
+0
+
+
+GNOME;System
+
+-pcmanfm.desktop
+File Manager PCManFM
+Browse the file system and manage the files
+system-file-manager
+
+5
+File Manager
+pcmanfm %U
+2
+0
+
+
+System;FileTools;FileManager;Utility;Core;GTK
+
+-lxterminal.desktop
+LXTerminal
+Use the command line
+lxterminal
+
+5
+Terminal
+lxterminal
+0
+0
+lxterminal
+
+GTK;System;TerminalEmulator
+console,command line,execute
+
+-
++DesktopSettings
+Preferences
+Personal preferences
+preferences-desktop
+lxde-settings.directory
+2
+0
+-lxappearance.desktop
+Customize Look and Feel
+Customizes look and feel of your desktop and applications
+preferences-desktop-theme
+
+5
+Customize Look and Feel
+lxappearance
+2
+-47
+
+
+GTK;Settings;DesktopSettings;X-LXDE-Settings
+windows,preferences,settings,theme,style,appearance
+-pcmanfm-desktop-pref.desktop
+Desktop Preferences
+Change desktop wallpapers and behavior of desktop manager
+user-desktop
+
+5
+
+pcmanfm --desktop-pref
+2
+-47
+
+
+Settings;GTK;DesktopSettings;X-LXDE-Settings
+
+-sun_java-jdk8.desktop
+Java
+Java Control Panel
+sun-jcontrol-jdk8.png
+
+5
+
+/usr/lib/jvm/java-8-jdk/jre/bin/jcontrol
+0
+0
+
+
+Application;Settings;Java;X-Red-Hat-Base;X-Ximian-Settings
+
+-policytool-jdk8.desktop
+Java 8 Policy Settings
+
+sun-java-jdk8
+
+5
+
+/usr/lib/jvm/java-8-jdk/jre/bin/policytool
+2
+0
+
+
+Settings;Java
+
+-libfm-pref-apps.desktop
+Preferred Applications
+Select applications called on click on Web link or e-mail address
+preferences-desktop
+
+5
+
+libfm-pref-apps
+2
+1
+
+
+Settings;DesktopSettings;X-LXDE-Settings;GTK
+
+
+
