@@ -30,6 +30,38 @@ Plugin {
 Plugin {
   type=menu
   Config {
+    item{
+      image=google-chrome
+      name=Google Chrome
+      action=google-chrome-stable
+    }
+    item{
+      image=firefox
+      name=Firefox Web Browser
+      action=firefox
+    }
+    item{
+      image=spring-tool-suite
+      name=Spring Tools Suite
+      action=STS
+    }
+    item{
+      image=postman
+      name=Postman
+      action=postman
+    }
+    item{
+      image=visual-studio-code
+      name=Visual Studio Code
+      action=/opt/visual-studio-code/code %f
+    }
+    item{
+      image=sublime-text
+      name=Sublime Text 3 Dev
+      action=subl3 %F
+    }
+    separator{
+    }
     system {
     }
     separator {
@@ -82,6 +114,8 @@ Plugin {
 Plugin {
   type=volume
   Config {
+    MixerCommand=pavucontrol
+    MixerCommandTerm=0
   }
 }
 Plugin {
