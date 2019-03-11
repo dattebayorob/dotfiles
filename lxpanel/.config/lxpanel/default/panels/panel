@@ -24,43 +24,43 @@ Global {
 Plugin {
   type=space
   Config {
-    Size=5
+    Size=10
   }
 }
 Plugin {
   type=menu
   Config {
-    item{
+    item {
       image=google-chrome
       name=Google Chrome
       action=google-chrome-stable
     }
-    item{
+    item {
       image=firefox
       name=Firefox Web Browser
       action=firefox
     }
-    item{
+    item {
       image=spring-tool-suite
       name=Spring Tools Suite
       action=STS
     }
-    item{
+    item {
       image=postman
       name=Postman
       action=postman
     }
-    item{
+    item {
       image=visual-studio-code
       name=Visual Studio Code
       action=/opt/visual-studio-code/code %f
     }
-    item{
+    item {
       image=sublime-text
       name=Sublime Text 3 Dev
       action=subl3 %F
     }
-    separator{
+    separator {
     }
     system {
     }
@@ -132,6 +132,6 @@ Plugin {
 Plugin {
   type=space
   Config {
-    Size=5
+    Size=7
   }
 }
