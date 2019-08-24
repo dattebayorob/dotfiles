@@ -1,0 +1,5 @@
+[General]
+history=google,code
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_visual-studio-code.desktop,1 services_google-chrome.desktop

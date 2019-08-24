@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Qt;KDE;System;FileTools;FileManager;
+Exec=dolphin %u
+GenericName=File Manager
+Icon=system-file-manager
+InitialPreference=10
+MimeType=inode/directory;
+Name=Dolphin
+StartupWMClass=dolphin
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=org.kde.dolphin
+X-DocPath=dolphin/index.html

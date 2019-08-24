@@ -1,0 +1,29 @@
+[Desktop Action ActiveWindowScreenShot]
+Exec=qdbus org.kde.Spectacle / ActiveWindow true false
+Name=Capture Active Window
+
+[Desktop Action CurrentMonitorScreenShot]
+Exec=qdbus org.kde.Spectacle / CurrentScreen false
+Name=Capture Current Monitor
+
+[Desktop Action FullScreenScreenShot]
+Exec=qdbus org.kde.Spectacle / FullScreen false
+Name=Capture Entire Desktop
+
+[Desktop Action RectangularRegionScreenShot]
+Exec=qdbus org.kde.Spectacle / RectangularRegion true
+Name=Capture Rectangular Region
+
+[Desktop Entry]
+Actions=FullScreenScreenShot;CurrentMonitorScreenShot;ActiveWindowScreenShot;RectangularRegionScreenShot;
+Categories=Qt;KDE;Utility;
+Exec=qdbus org.kde.Spectacle / StartAgent
+GenericName=Screenshot Capture Utility
+Icon=spectacle
+Keywords=snapshot;capture;print;screenshot;snipping;snip;
+Name=Spectacle
+StartupNotify=false
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=org.kde.Spectacle
+X-DBUS-StartupType=Multi

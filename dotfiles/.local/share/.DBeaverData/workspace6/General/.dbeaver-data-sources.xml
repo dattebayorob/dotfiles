@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="postgres-jdbc-16be7c0cec0-6ad6bc72a06da732" provider="postgresql" driver="postgres-jdbc" name="Controle de Acesso Desv" save-password="true" read-only="false">
+		<connection host="172.31.4.22" port="5432" server="" database="desenvolvimento" url="jdbc:postgresql://172.31.4.22:5432/desenvolvimento" user="controleacesso" password="EAsINFNMSBMEEQMtBBkltw==" type="dev">
+			<provider-property name="@dbeaver-show-non-default-db@" value="false"/>
+			<provider-property name="@dbeaver-show-template-db@" value="false"/>
+		</connection>
+	</data-source>
+	<data-source id="dbeaver-sample-database-sqlite-1" provider="generic" driver="sqlite_jdbc" name="DBeaver Sample Database (SQLite)" save-password="true" show-system-objects="true" read-only="false">
+		<connection server="" database="/home/administrador/.dbeaver4/.metadata/sample-database-sqlite-1/Chinook.db" url="jdbc:sqlite:/home/administrador/.dbeaver4/.metadata/sample-database-sqlite-1/Chinook.db" type="dev"/>
+	</data-source>
+	<data-source id="postgres-jdbc-16be7c6288e-ab63feb185a477c" provider="postgresql" driver="postgres-jdbc" name="Rede Fisica Desv" save-password="true" read-only="false">
+		<connection host="172.31.4.22" port="5432" server="" database="desenvolvimento" url="jdbc:postgresql://172.31.4.22:5432/desenvolvimento" user="redefisica" password="AQECJUdKVx8GE2bf" type="dev">
+			<property name="connectTimeout" value="20"/>
+			<property name="loginTimeout" value="20"/>
+			<provider-property name="@dbeaver-show-non-default-db@" value="false"/>
+			<provider-property name="@dbeaver-show-template-db@" value="false"/>
+		</connection>
+	</data-source>
+	<data-source id="postgres-jdbc-16bed72339b-6d96b5e43df18184" provider="postgresql" driver="postgres-jdbc" name="Academico Desv" save-password="true" read-only="false">
+		<connection host="172.31.4.22" port="5432" server="" database="desenvolvimento" url="jdbc:postgresql://172.31.4.22:5432/desenvolvimento" user="academico" password="EgcHJEROTRUKcuc=" type="dev">
+			<provider-property name="@dbeaver-show-non-default-db@" value="false"/>
+			<provider-property name="@dbeaver-show-template-db@" value="false"/>
+			<bootstrap txnIsolation="2"/>
+		</connection>
+		<virtual-meta-data>
+			<container name="model">
+				<container name="desenvolvimento">
+					<container name="educacenso_exp">
+						<entity name="tb_pessoa_receita">
+							<constraint name="PRIMARY" type="VIRTUAL PRIMARY KEY">
+								<attribute name="nr_cpf"/>
+								<attribute name="id_censo"/>
+								<attribute name="nm_pessoa"/>
+								<attribute name="dt_nascimento"/>
+								<attribute name="nm_mae"/>
+								<attribute name="dt_atualizacao"/>
+								<attribute name="fl_nome_errado"/>
+								<attribute name="fl_nascimento_errado"/>
+								<attribute name="fl_mae_errado"/>
+								<attribute name="cd_usuario_analise"/>
+								<attribute name="dt_analise"/>
+							</constraint>
+						</entity>
+					</container>
+				</container>
+			</container>
+		</virtual-meta-data>
+	</data-source>
+	<data-source id="postgres-jdbc-16c16bb4bed-4c1a1ac2f4949346" provider="postgresql" driver="postgres-jdbc" name="Educacenso Desv" save-password="true" read-only="false">
+		<connection host="172.31.4.22" port="5432" server="" database="desenvolvimento" url="jdbc:postgresql://172.31.4.22:5432/desenvolvimento" user="educacenso" password="FgATI0BAQRgWHWbf" type="dev">
+			<provider-property name="@dbeaver-show-non-default-db@" value="false"/>
+			<provider-property name="@dbeaver-show-template-db@" value="false"/>
+		</connection>
+	</data-source>
+	<filters/>
+</data-sources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="DBeaver.DriverTabbedViewer">
+	</section>
+	<section name="DBeaver.ActiveWizardDialog.NewConnectionWizard">
+		<item key="DIALOG_X_ORIGIN" value="385"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="757"/>
+		<item key="DIALOG_HEIGHT" value="659"/>
+		<item key="DIALOG_FONT_NAME" value="1|sans-serif|10.0|0|GTK|1|"/>
+	</section>
+	<section name="DriverDownload">
+	</section>
+	<section name="DBeaver.DriverDownloadDialog">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_HEIGHT" value="582"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.ShowTipOfTheDayDialog">
+		<item key="DIALOG_X_ORIGIN" value="538"/>
+		<item key="DIALOG_Y_ORIGIN" value="247"/>
+		<item key="DIALOG_WIDTH" value="365"/>
+		<item key="DIALOG_HEIGHT" value="218"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans Serif|10.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.EditConnectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="412"/>
+		<item key="DIALOG_Y_ORIGIN" value="43"/>
+		<item key="DIALOG_WIDTH" value="670"/>
+		<item key="DIALOG_HEIGHT" value="689"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans Serif|10.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.QM.LogViewer">
+		<item key="column-context" value="264"/>
+	</section>
+	<section name="ResultSetViewer">
+		<section name="presentations">
+			<section name="spreadsheet">
+				<item key="enabledPanelIds" value="value-view,column-aggregate"/>
+				<item key="activePanelId" value="column-aggregate"/>
+				<item key="panelRatio" value="200"/>
+				<item key="panelsVisible" value="true"/>
+				<item key="verticalLayout" value="false"/>
+			</section>
+		</section>
+		<section name="ErrorPresentation">
+		</section>
+		<section name="panel-column-aggregate">
+			<item key="groupByColumns" value="false"/>
+			<item key="groupAsStrings" value="false"/>
+			<section name="functions">
+				<section name="count">
+					<item key="enabled" value="true"/>
+					<item key="index" value="0"/>
+				</section>
+				<section name="countDistinct">
+					<item key="enabled" value="true"/>
+					<item key="index" value="1"/>
+				</section>
+				<section name="sum">
+					<item key="enabled" value="false"/>
+					<item key="index" value="-1"/>
+				</section>
+				<section name="avg">
+					<item key="enabled" value="false"/>
+					<item key="index" value="-1"/>
+				</section>
+				<section name="min">
+					<item key="enabled" value="false"/>
+					<item key="index" value="-1"/>
+				</section>
+				<section name="max">
+					<item key="enabled" value="false"/>
+					<item key="index" value="-1"/>
+				</section>
+				<section name="median">
+					<item key="enabled" value="false"/>
+					<item key="index" value="-1"/>
+				</section>
+				<section name="mode">
+					<item key="enabled" value="false"/>
+					<item key="index" value="-1"/>
+				</section>
+			</section>
+		</section>
+	</section>
+	<section name="DBeaver.SelectDataSourceDialog">
+		<item key="DIALOG_X_ORIGIN" value="806"/>
+		<item key="DIALOG_Y_ORIGIN" value="49"/>
+		<item key="DIALOG_WIDTH" value="308"/>
+		<item key="DIALOG_HEIGHT" value="693"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.ScriptSelectorPanel">
+		<item key="bounds" value="100,100,500,200"/>
+	</section>
+	<section name="DBeaver.PostgreSessionEditor">
+		<item key="MainSashRatio" value="700"/>
+		<item key="DetailsSashRatio" value="200"/>
+	</section>
+	<section name="DBeaver.StandardErrorDialog">
+		<item key="showDetails" value="false"/>
+		<item key="DIALOG_X_ORIGIN" value="568"/>
+		<item key="DIALOG_Y_ORIGIN" value="392"/>
+		<item key="DIALOG_WIDTH" value="386"/>
+		<item key="DIALOG_HEIGHT" value="165"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans Serif|10.0|0|GTK|1|"/>
+	</section>
+</section>

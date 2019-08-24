@@ -1,0 +1,22 @@
+[General]
+confirmLogout=true
+excludeApps=
+loginMode=default
+offerShutdown=true
+screenCount=1
+shutdownType=0
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=termite
+count=1
+
+[Session: saved at previous logout]
+clientId1=10c5e6c595000156249967600000007570005
+count=1
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_10c5e6c595000156249967600000007570005_1563314318_354405
+program1=/usr/bin/kwin_x11
+restartCommand1=/usr/bin/kwin_x11,-session,10c5e6c595000156249967600000007570005_1563314318_354405
+restartStyleHint1=0
+userId1=administrador
+wasWm1=true

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Breeze Chameleon</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1292162</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>70</rating>
+  <downloads>1058</downloads>
+  <installedfile>/tmp/Breeze-Chameleon.tar.gz</installedfile>
+  <id>1292162</id>
+  <releasedate>2019-06-22</releasedate>
+  <summary>A little blur and transparent, dark Plasma theme, with Teal and Purple color details. Changed Breeze icons (Applications, Bookmarks, Computer, View), which are in different colors. Also, modified System icons (Suspend, Hibernate, Reboot, Shut Down, Logout), which are also in different colors. Interesting buttons on the Panel (in more colors). By the way, try ):&lt;br />
+&lt;br />
+Icon Theme: Breeze Chameleon Dark + Breeze Chameleon Light:&lt;br />
+&lt;br />
+"Breeze Chameleon Dark": &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+"Breeze Chameleon Light": &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+- The folders change color depending on the Color Scheme you set&lt;br />
+- Added icons from "Papirus Icons Themes" (Only icons from the "Actions" folder)&lt;br />
+- The Session icons (Lock, Logout, Switch User), as well as System Icons (Suspend, Hybernate, Reboot, Shut Down) have been changed. These icons are in color.&lt;br />
+&lt;br />
+Plasma Look-and-Feel Meta Theme"Breeze Chameleon": &lt;a href="https://store.kde.org/p/1296747/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Color Scheme "Breeze Chameleon": &lt;a href="https://store.kde.org/p/1292165/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme "Breeze Chameleon": &lt;a href="https://store.kde.org/p/1292166/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme "Breeze Chameleon":&lt;a href="https://store.kde.org/p/1292169/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme "Breeze Chameleon-v.2": &lt;a href="https://www.opendesktop.org/p/1304040/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen "Breeze Chameleon": &lt;a href="https://store.kde.org/p/1292171/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme "Breeze Chameleon": &lt;a href="https://store.kde.org/p/1292168/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+GTK2 Theme "Breeze Chameleon": &lt;a href="https://www.opendesktop.org/p/1292163/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Light Plasma Theme "Breeze-Chameleon-Light": &lt;a href="https://store.kde.org/p/1311009/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+____________________________&lt;br />
+&lt;br />
+For Blur look of the window, I recommend Kwin Scripts: "Force Blur", authored by ESJEON, which you can download: &lt;a href="https://store.kde.org/p/1294604/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Link to Wallpaper "Celestial Abstract Landscape 191 HD": &lt;a href="https://www.pling.com/p/1291336/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallpaper "  KDE Plasma Scenery 10 HD ": &lt;a href="https://www.opendesktop.org/p/1296495/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">Charlie-Henson&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/b/6/1/f2b9251b9f683a1a9f044ff3fb3494ef14e3.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/b/6/1/f2b9251b9f683a1a9f044ff3fb3494ef14e3.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1561220609/s/75fb4b5eb1eb0b0c1e0f91147b3bb7d4/t/1564632093/o/1/Breeze-Chameleon.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Shamrock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1309959</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>162</downloads>
+  <installedfile>/tmp/Shamrock.tar.gz</installedfile>
+  <id>1309959</id>
+  <releasedate>2019-07-06</releasedate>
+  <summary>I received the inspiration for this Theme in Irish Pab "Shamrock"-Novi Sad.&lt;br />
+Moderate Blur and Transparent Dark Plasma Theme. It dominates a very dark (mostly black) blue color (Panel Background, Background Dialogs, Tooltip ...), in combination with Mostly darkened green and very dark desaturized green. An interesting task button on the panel.&lt;br />
+&lt;br />
+Icons: "Breeze Chameleon Dark": &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Icons: "Breeze Chameleon Light": &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">Here&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the Color Scheme you set&lt;br />
+- Added icons from "Papirus Icons Themes" (Only icons from the "Actions" folder)&lt;br />
+- The Session icons (Lock, Logout, Switch User), as well as System Icons (Suspend, Hybernate, Reboot, Shut Down) have been changed. These icons are in color.&lt;br />
+__________________&lt;br />
+&lt;br />
+Plasma Look-and-Feel Theme "Shamrock": &lt;a href="https://store.kde.org/p/1309966/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Plasma Color Scheme "Shamrock": &lt;a href="https://www.opendesktop.org/p/1309965/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme "Shamrock": &lt;a href="https://store.kde.org/p/1309964/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme "Shamrock": &lt;a href="https://store.kde.org/p/1309963/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen "Shamrock": &lt;a href="https://www.opendesktop.org/p/1309962/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme "Shamrock": &lt;a href="https://store.kde.org/p/1309961/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+GTK2 Theme "Shamrock": &lt;a href="https://www.opendesktop.org/p/1309960/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+_____________________&lt;br />
+&lt;br />
+For Blur look of the window, I recommend Kwin Scripts: "Force Blur", authored by ESJEON, which you can download: &lt;a href="https://store.kde.org/p/1294604/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Link to Wallpaper "KDE Plasma Abstract 337 HD": &lt;a href="https://store.kde.org/p/1309647/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallpaper " KDE Plasma Abstract 327 HD":&lt;a href="https://store.kde.org/p/1309357/" target="_blank" rel="nofollow">Here&lt;/a> &lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">Charlie-Henson&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/4/d/c/4/e3770d201027a2191cef16fefcf7557074a9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/4/d/c/4/e3770d201027a2191cef16fefcf7557074a9.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1562404620/s/6636f2ab0b28c47f1653b20a98eef848/t/1562762146/o/1/Shamrock.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Sleek</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1308980</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>2288</downloads>
+  <installedfile>/tmp/Sleek.tar.gz</installedfile>
+  <id>1308980</id>
+  <releasedate>2019-06-08</releasedate>
+  <summary>Without blurriness and transparency, the simple and sleek dark Plasma Theme, dominated by Very Dark Grayish Blue, combined with Moderate Cyan and Dark Cyan color elements.&lt;br />
+&lt;br />
+Icons: "Breeze Chameleon Dark": &lt;a href="https://store.kde.org/p/1281798/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Icons: "Breeze Chameleon Light": &lt;a href="https://store.kde.org/p/1298508/" target="_blank" rel="nofollow">Here&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the Color Scheme you set&lt;br />
+- Added icons from "Papirus Icons Themes" (Only icons from the "Actions" folder)&lt;br />
+- The Session icons (Lock, Logout, Switch User), as well as System Icons (Suspend, Hybernate, Reboot, Shut Down) have been changed. These icons are in color.&lt;br />
+__________________&lt;br />
+&lt;br />
+Plasma Look-and-Feel Theme "Sleek": &lt;a href="https://www.pling.com/p/1308993/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Plasma Color Scheme "Sleek": &lt;a href="https://www.opendesktop.org/p/1308989/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme "Sleek": &lt;a href="https://www.opendesktop.org/p/1308986/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme "Sleek": &lt;a href="https://www.opendesktop.org/p/1308984/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen "Sleek": &lt;a href="https://www.opendesktop.org/p/1308985/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme "Sleek": &lt;a href="https://www.opendesktop.org/p/1308982/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+GTK2 Theme "Sleek": &lt;a href="https://www.opendesktop.org/p/1308983/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Wallpaper that fits nicely with this theme "KDE Plasma Nebula 319 HD 4K": &lt;a href="https://store.kde.org/p/1307943/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+ &lt;br />
+The author of the wallpaper: charlie-henson: &lt;a href="https://www.opendesktop.org/u/charlie-henson/" target="_blank" rel="nofollow">Here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/c/8/4/328881cbc2b6fe6ca7e0398a9c6063ca2d43.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/c/8/4/328881cbc2b6fe6ca7e0398a9c6063ca2d43.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1560007398/s/84dd6fd04861afec4262aa52e70bf7eb/t/1564631275/o/1/Sleek.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Deepin theme for KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vizard775</author>
+  <homepage>https://store.kde.org/p/1231459</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>62675</downloads>
+  <installedfile>/tmp/Deepintheme.tar.gz</installedfile>
+  <id>1231459</id>
+  <releasedate>2018-04-26</releasedate>
+  <summary>DeepinTheme</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/f/e/2/c65ca45bdc78cc9087be112cc7f83c992a5a.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/f/e/2/c65ca45bdc78cc9087be112cc7f83c992a5a.jpg</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1524794052/s/8ddceb01a8a9807201c4a2607cce485c/t/1564632227/o/1/Deepintheme.tar.gz</payload>
+  <tags>lgplv2,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Darkine KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Rokin</author>
+  <homepage>https://store.kde.org/p/1226050</homepage>
+  <licence></licence>
+  <version>2.1</version>
+  <rating>50</rating>
+  <downloads>4338</downloads>
+  <installedfile>/tmp/darkine.desktoptheme.tar.gz</installedfile>
+  <id>1226050</id>
+  <releasedate>2019-05-17</releasedate>
+  <summary>&lt;strong>Darkine&lt;/strong> - A dark theme for KDE Plasma.&lt;br />
+&lt;br />
+You'll be able to get the full theme collection here : &lt;a href="https://www.pling.com/c/1304956" target="_blank" rel="nofollow">&lt;strong>Darkine collection&lt;/strong>&lt;/a>.&lt;br />
+For better looking please use this theme with &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">&lt;strong>Kvantum engine&lt;/strong>&lt;/a>.&lt;br />
+&lt;br />
+The theme / collection contain :&lt;br />
+&lt;br />
+&lt;ul>&lt;li> Plasma - Look-and-Feel&lt;/li>&lt;li> Plasma - Desktop Theme&lt;/li>&lt;li> Plasma - Color Scheme&lt;/li>&lt;li> Aurorae Theme (Classic and Mac/Sweet style)&lt;/li>&lt;li> Kvantum Theme&lt;/li>&lt;li> Icon-pack&lt;/li>&lt;li> Wallpapers&lt;/li>&lt;li> SDDM Theme (build from scratch with QtQuick2, without KDE dependencies).&lt;/li>&lt;li> Firefox Quantum theme &lt;a href="https://addons.mozilla.org/fr/firefox/addon/darkine" target="_blank" rel="nofollow">at addons.mozilla.org&lt;/a>.&lt;/li>&lt;/ul></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/c/d/5/a56316fd8737930157f504eea9280dc8edc5.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/c/d/5/a56316fd8737930157f504eea9280dc8edc5.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1558097144/s/1af52bc4c9be1f5fb9ddc2af1d31588f/t/1564631232/o/1/darkine.desktoptheme.tar.gz</payload>
+  <tags>darkine,dark,plasma,kvantum,rokin,original-product,linux,unix,kde,theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Materia KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229134</homepage>
+  <licence></licence>
+  <version>20190620</version>
+  <rating>82</rating>
+  <downloads>4790</downloads>
+  <installedfile>/tmp/Materia-Blur-Mono.tar.xz</installedfile>
+  <id>1229134</id>
+  <releasedate>2019-06-21</releasedate>
+  <summary>Materia KDE - it's port Materia GTK Theme for Plasma 5 desktop.&lt;br />
+Available themed tray &amp;amp; notification icons for: Akregator, Amarok, Audacious, Cantata, Choqok, Juk, Kaffeine, Kalarm, KDE Connect, KDF, kGet, kGPG, Klipper, Konversation, Kopete, Korgac, kRFB, Kruler, Krusader, kTeaTime, kTorrent, Kup, kMail, MellowPlayer, Nulloy, PlasmaVault, qBittorrent, Quassel, Ring, TeamViewer, VeraCrypt, VLC&lt;br />
+&lt;br />
+For Materia Blur enable blur effect on KDE systemsettings, also for better looking change blur and noise strength to 5.&lt;br />
+&lt;br />
+Install full Materia customize from my profile. &lt;br />
+&lt;br />
+Please use Kvantum Engine and Theme for better looking.&lt;br />
+&lt;br />
+Recommended software for better experience with Materia Blur: Dolphin, Ark, Kate, Okular, LXImage-Qt, Falkon, Kopete, KGet, KTorrent, QMPlay2, SMPlayer, bomi, Clementine Qt5, Nulloy Player, Cantata, QOMP, Octopi, Konsole, Yakuake</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1561091824/s/43d43a844285243fcd0a4314727a0d30/t/1562580685/o/1/Materia-Blur-Mono.tar.xz</payload>
+  <tags>gplv3,plasma##majorversion=5,linux,unix,theme,kde,plasma,materia,material</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Pitch-Black</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>freefreeno</author>
+  <homepage>https://store.kde.org/p/1298943</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>4407</downloads>
+  <installedfile>/tmp/Pitch-Black.tar.gz</installedfile>
+  <id>1298943</id>
+  <releasedate>2019-06-03</releasedate>
+  <summary>Dark Plasma theme to match the Pitch Black Plasma color scheme with transparency and blur . There is an entire look-and-feel,color scheme,window decorations and GTK themes to match this.&lt;br />
+&lt;br />
+The color scheme is here:&lt;br />
+https://www.pling.com/p/1298939&lt;br />
+&lt;br />
+I will add the other location after I have posted everything.&lt;br />
+&lt;br />
+Icons are the Newaita-dark icons:&lt;br />
+https://store.kde.org/p/1243493</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/8/6/0/d84a7553263ea12378a1c4cd29a44dc4573d.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/8/6/0/d84a7553263ea12378a1c4cd29a44dc4573d.jpg</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1559614755/s/251bdb3c1058103ca0ff832f78b9d52d/t/1564631217/o/1/Pitch-Black.tar.gz</payload>
+  <tags>gplv3,plasma##majorversion=5,linux,unix,theme,kde,plasma,kdeplasma,plasma5</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

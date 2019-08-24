@@ -1,0 +1,8 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=org.caig.quasideepindark
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/administrador/.config/openbox/background/darth.png

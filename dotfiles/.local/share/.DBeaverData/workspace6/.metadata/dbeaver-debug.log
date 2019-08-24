@@ -1,0 +1,91 @@
+2019-08-24 11:32:03.605 - DBeaver 6.1.4.201908101751 is starting
+2019-08-24 11:32:03.606 - OS: Linux 5.2.9-arch1-1-ARCH (amd64)
+2019-08-24 11:32:03.606 - Java version: 1.8.0_212 by Oracle Corporation (64bit)
+2019-08-24 11:32:03.607 - Install path: '/usr/lib/dbeaver'
+2019-08-24 11:32:03.607 - Instance path: 'file:/home/administrador/.local/share/.DBeaverData/workspace6/'
+2019-08-24 11:32:03.608 - Memory available 83Mb/910Mb
+2019-08-24 11:32:03.641 - > Start org.jkiss.dbeaver.registry [1.0.8.201908101751]
+2019-08-24 11:32:03.878 - > Start org.eclipse.core.filesystem [1.7.400.v20190518-1151]
+2019-08-24 11:32:04.197 - > Start org.eclipse.core.resources [3.13.400.v20190505-1655]
+2019-08-24 11:32:04.238 - Starting RMI server at 54172
+2019-08-24 11:32:04.431 - Run workbench
+2019-08-24 11:32:04.504 - > Start org.eclipse.e4.ui.workbench.swt [0.14.600.v20190513-2118]
+2019-08-24 11:32:04.507 - > Start org.eclipse.e4.core.services [2.1.400.v20181215-2145]
+2019-08-24 11:32:04.513 - > Start org.eclipse.e4.core.contexts [1.8.100.v20190518-1217]
+2019-08-24 11:32:04.537 - > Start org.eclipse.e4.ui.services [1.3.500.v20190513-2118]
+2019-08-24 11:32:04.592 - > Start org.eclipse.e4.ui.di [1.2.600.v20190510-1100]
+2019-08-24 11:32:04.694 - > Start org.eclipse.emf.common [2.16.0.v20190528-0845]
+2019-08-24 11:32:04.715 - > Start org.eclipse.emf.ecore [2.18.0.v20190528-0845]
+2019-08-24 11:32:04.764 - > Start org.eclipse.emf.ecore.xmi [2.16.0.v20190528-0725]
+2019-08-24 11:32:05.072 - > Start org.eclipse.e4.ui.workbench.addons.swt [1.3.500.v20190513-2118]
+2019-08-24 11:32:05.120 - > Start org.eclipse.core.expressions [3.6.400.v20190518-1240]
+2019-08-24 11:32:05.161 - > Start org.eclipse.e4.ui.workbench.renderers.swt [0.14.700.v20190517-1525]
+2019-08-24 11:32:05.274 - > Start org.eclipse.e4.ui.bindings [0.12.500.v20190510-1100]
+2019-08-24 11:32:05.327 - > Start org.eclipse.e4.core.di.extensions [0.15.300.v20190213-1308]
+2019-08-24 11:32:06.145 - > Start org.eclipse.e4.ui.css.swt [0.13.500.v20190513-2118]
+2019-08-24 11:32:06.286 - > Start org.eclipse.e4.ui.css.swt.theme [0.12.300.v20190510-1100]
+2019-08-24 11:32:06.372 - > Start org.jkiss.dbeaver.ui [5.1.29.201908101751]
+2019-08-24 11:32:07.092 - Initializing DBeaver 6.1.4
+2019-08-24 11:32:07.092 - Host plugin: org.jkiss.dbeaver.core.application 6.1.4.201908101751
+2019-08-24 11:32:07.092 - Initialize Core...
+2019-08-24 11:32:07.127 - Can't find BC security provider. Use default JCE.
+2019-08-24 11:32:07.128 - BouncyCastle not registered, using the default JCE provider
+2019-08-24 11:32:07.293 - > Start org.jkiss.dbeaver.ui.navigator [1.0.14.201908101751]
+2019-08-24 11:32:07.323 - > Start org.eclipse.equinox.security [1.3.200.v20190516-1504]
+2019-08-24 11:32:07.368 - > Start org.eclipse.ui.net [1.3.400.v20190519-2354]
+2019-08-24 11:32:07.368 - Proxy service 'org.eclipse.core.net.proxy.IProxyService' loaded
+2019-08-24 11:32:07.369 - > Start org.eclipse.core.net [1.3.500.v20190519-2354]
+2019-08-24 11:32:07.371 - Core initialized (279ms)
+2019-08-24 11:32:07.371 - Configure workbench window
+2019-08-24 11:32:07.400 - > Start org.eclipse.help [3.8.400.v20190423-0921]
+2019-08-24 11:32:08.987 - Create actions
+2019-08-24 11:32:08.988 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2019-08-24 11:32:08.989 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2019-08-24 11:32:09.461 - > Start org.eclipse.ui.editors [3.11.500.v20190519-2344]
+2019-08-24 11:32:09.487 - > Start org.eclipse.core.filebuffers [3.6.600.v20190519-2344]
+2019-08-24 11:32:10.813 - Total database drivers: 75 (75)
+2019-08-24 11:32:10.948 - > Start org.eclipse.ui.workbench.texteditor [3.12.0.v20190519-2344]
+2019-08-24 11:32:11.008 - Initialize workbench window
+2019-08-24 11:32:11.024 - Finish initialization
+2019-08-24 11:32:11.100 - > Start org.jkiss.dbeaver.ui.editors.sql [1.0.14.201908101751]
+2019-08-24 11:32:11.107 - > Start org.jkiss.dbeaver.ext.erd [2.0.116.201908101751]
+2019-08-24 11:32:11.588 - > Start org.jkiss.dbeaver.ui.editors.base [1.0.14.201908101751]
+2019-08-24 11:32:11.732 - Connect with 'Academico Desv' (postgres-jdbc-16bed72339b-6d96b5e43df18184)
+2019-08-24 11:32:11.750 - > Start org.jkiss.dbeaver.ext.postgresql [2.1.87.201908101751]
+2019-08-24 11:32:11.872 - Initiate connection to PostgreSQL database [desenvolvimento@172.31.4.22] for Main
+2019-08-24 11:32:12.261 - > Start org.eclipse.equinox.p2.core [2.6.0.v20190215-2242]
+2019-08-24 11:32:12.306 - > Start org.eclipse.equinox.p2.operations [2.5.400.v20190408-2008]
+2019-08-24 11:32:12.330 - > Start org.eclipse.equinox.p2.engine [2.6.300.v20190318-1320]
+2019-08-24 11:32:12.450 - > Start org.eclipse.equinox.p2.metadata [2.4.400.v20190409-0548]
+2019-08-24 11:32:12.894 - > Start org.jkiss.dbeaver.ui.editors.data [1.0.14.201908101751]
+2019-08-24 11:32:12.917 - > Start org.eclipse.equinox.p2.ui.sdk.scheduler [1.4.200.v20181102-0649]
+2019-08-24 11:32:12.918 - > Start org.eclipse.equinox.p2.updatechecker [1.2.100.v20180827-1122]
+2019-08-24 11:32:12.922 - > Start org.eclipse.equinox.p2.metadata.repository [1.3.100.v20180822-1302]
+2019-08-24 11:32:12.923 - > Start org.eclipse.equinox.p2.repository [2.4.400.v20190318-1320]
+2019-08-24 11:32:13.334 - > Start org.eclipse.equinox.p2.ui [2.5.500.v20190220-1158]
+2019-08-24 11:32:13.401 - > Start org.jkiss.dbeaver.ext.sample.database [1.0.51.201908101751]
+2019-08-24 11:32:13.402 - > Start org.jkiss.dbeaver.ext.ui.tipoftheday [1.0.20.201908101751]
+2019-08-24 11:32:32.005 - Connection failed (postgres-jdbc-16bed72339b-6d96b5e43df18184)
+2019-08-24 11:32:36.298 - Database object is not associated with any execution context
+2019-08-24 11:43:59.620 - Connect with 'Academico Desv' (postgres-jdbc-16bed72339b-6d96b5e43df18184)
+2019-08-24 11:43:59.626 - Initiate connection to PostgreSQL database [desenvolvimento@172.31.4.22] for Main
+2019-08-24 11:44:00.069 - Initiate connection to PostgreSQL database [desenvolvimento@172.31.4.22] for Metadata
+2019-08-24 11:44:00.746 - Connected (postgres-jdbc-16bed72339b-6d96b5e43df18184, PostgreSQL JDBC Driver [42.2.5])
+Aug 24, 2019 11:44:02 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,14]: 'object.utility || object.external;' inaccessible or unknown property object
+Aug 24, 2019 11:44:02 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![18,33]: 'object.utility || object.external;' inaccessible or unknown property object
+Aug 24, 2019 11:44:02 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,13]: 'object.system;' inaccessible or unknown property object
+Aug 24, 2019 11:44:02 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,14]: 'object.utility || object.external;' inaccessible or unknown property object
+Aug 24, 2019 11:44:02 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![18,33]: 'object.utility || object.external;' inaccessible or unknown property object
+Aug 24, 2019 11:44:02 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,13]: 'object.system;' inaccessible or unknown property object
+Aug 24, 2019 11:44:03 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,14]: 'object.utility || object.external;' inaccessible or unknown property object
+Aug 24, 2019 11:44:03 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![18,33]: 'object.utility || object.external;' inaccessible or unknown property object
+Aug 24, 2019 11:44:03 AM org.apache.commons.jexl2.JexlEngine unknownVariable
+WARNING: org.jkiss.dbeaver.model.impl.AbstractDescriptor.parseExpression@58![0,13]: 'object.system;' inaccessible or unknown property object
