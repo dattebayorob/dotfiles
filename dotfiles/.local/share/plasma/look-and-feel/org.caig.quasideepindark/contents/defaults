@@ -1,0 +1,21 @@
+[kdeglobals][General]
+ColorScheme=Quasi Deepin Dark
+
+[kdeglobals][Icons]
+Theme=Deepin Dark
+
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__QuasiDeepinDark
+
+[plasmarc][Theme]
+name=breeze-antu

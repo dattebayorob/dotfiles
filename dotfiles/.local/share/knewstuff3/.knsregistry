@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="113">
+  <name>Google Hangout Emojis Complete</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>gcala</author>
+  <homepage>https://store.kde.org/p/1002289</homepage>
+  <licence></licence>
+  <version>0.3.2.1</version>
+  <rating>76</rating>
+  <downloads>10435</downloads>
+  <installedfile>/home/administrador/.local/share/emoticons//GoogleEmojiComplete/*</installedfile>
+  <installedfile>/home/administrador/.local/share/emoticons//</installedfile>
+  <id>1002289</id>
+  <releasedate>2014-12-19</releasedate>
+  <summary>Collection of 861 emojis directly from Google Hangout.&lt;br />
+&lt;br />
+This set contains all emoticons currently available.&lt;br />
+&lt;br />
+Icons are property of Google Inc.&lt;br />
+&lt;br />
+&lt;strong>Attention:&lt;/strong> For a mysterious reason, selecting the new theme in System Settings causes changes in some emoticons, that don't work. So, to prevent this issue, after installing the theme and before enabling it go in&lt;br />
+&lt;br />
+$HOME/.kde/share/emoticons/Google*&lt;br />
+&lt;br />
+or&lt;br />
+&lt;br />
+$HOME/.kde4/share/emoticons/Google*&lt;br />
+&lt;br />
+(depending on your distro) and change attributes of emoticons.xml removing write permission.&lt;br />
+&lt;br />
+If you miss this step and you notice strange characters on chat log, I have included a backup file of the theme file that you can use to restore defaults and adjust permissions.&lt;br />
+&lt;br />
+How to upgrade: before each upgrade you have to temporary restore write attribute to emoticons.xml then install the new theme and then removing again write permissions.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/162161-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/162161-1.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1463976030/s/8613779e7c732d4b6a82b5ac549494ae/t/1566696271/o/1/162161-GoogleEmojiComplete.tar.gz</payload>
+  <tags>emoticon,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="211">
+  <name>MediumRoundedDark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1303919</homepage>
+  <licence></licence>
+  <version>0.25</version>
+  <rating>50</rating>
+  <downloads>736</downloads>
+  <installedfile>/tmp/MediumRoundedDark.tar.gz</installedfile>
+  <id>1303919</id>
+  <releasedate>2019-06-30</releasedate>
+  <summary>Windows Switcher rounded with a perfect size of icons :)&lt;br />
+# Installation:&lt;br />
+Download, extract and place the content in ~/.local/share/kwin/tabbox/&lt;br />
+or by system configurations &lt;br />
+[  SystemSettings &amp;gt; WindowManagement &amp;gt; TaskSwitcher &amp;gt; Get New Task Switcher. ]</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/5/7/1/54a0743d3ff7b450c5ef7bb2e50e3db906b8.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/5/7/1/54a0743d3ff7b450c5ef7bb2e50e3db906b8.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1561909147/s/b33d111c3c4f26caf1cc6d9b87b67951/t/1562764393/o/1/MediumRoundedDark.tar.gz</payload>
+  <tags>gplv3,original-product,linux,unix,theme,plasma,switcher</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="425">
+  <name>Simple System Monitor</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>KonstantinShtepa</author>
+  <homepage>https://store.kde.org/p/1173509</homepage>
+  <licence></licence>
+  <version>0.6</version>
+  <rating>82</rating>
+  <downloads>92928</downloads>
+  <installedfile>/tmp/plasma-simpleMonitor-v0.6.plasmoid</installedfile>
+  <id>1173509</id>
+  <releasedate>2017-08-23</releasedate>
+  <summary>A simple monitor for plasma, completely written in QML and Javascript.&lt;br />
+&lt;br />
+Currently can show OS info, CPU load/temp and memory load.&lt;br />
+&lt;br />
+Support for:&lt;br />
+* Background translucent and crystal&lt;br />
+* Change distro logo&lt;br />
+* Hide some widgets&lt;br />
+* Configure high and critical temperatures&lt;br />
+&lt;br />
+You can request more features on GitHub Page http://github.com/dhabyx/plasma-simpleMonitor&lt;br />
+&lt;br />
+If you need localisation, please clone the git source and use cmake installation.&lt;br />
+&lt;br />
+Original idea and work by DhabyX.&lt;br />
+Ported to Plasma 5 by Konstantin Shtepa.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/a/3/1/ef08bbf43d444a2d3fcb4cb48c69559114fb.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/a/3/1/ef08bbf43d444a2d3fcb4cb48c69559114fb.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1490537935/s/b4c8f5c9d274255299efb09e75c94d2d/t/1563549131/o/1/plasma-simpleMonitor-v0.6.plasmoid</payload>
+  <tags>linux,unix,extension,plasma##majorversion=5,widget,kde,plasma,monitoring</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

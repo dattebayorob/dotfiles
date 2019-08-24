@@ -1,0 +1,17 @@
+[Favorites-org.kde.plasma.kicker.favorites.instance-20-f212d640-6b98-4c04-837d-d63e61a48e82]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:firefox.desktop,applications:spring-tool-suite.desktop,applications:visual-studio-code.desktop,applications:postman.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-20-global]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:firefox.desktop,applications:spring-tool-suite.desktop,applications:visual-studio-code.desktop,applications:postman.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-21-f212d640-6b98-4c04-837d-d63e61a48e82]
+ordering=preferred://browser,applications:firefox.desktop,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:termite.desktop,applications:postman.desktop,applications:spring-tool-suite.desktop,applications:visual-studio-code.desktop,applications:dbeaver.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-21-global]
+ordering=preferred://browser,applications:firefox.desktop,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:termite.desktop,applications:postman.desktop,applications:spring-tool-suite.desktop,applications:visual-studio-code.desktop,applications:dbeaver.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-f212d640-6b98-4c04-837d-d63e61a48e82]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:visual-studio-code.desktop,applications:spring-tool-suite.desktop,applications:postman.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:org.kde.dolphin.desktop,preferred://browser,applications:visual-studio-code.desktop,applications:spring-tool-suite.desktop,applications:postman.desktop

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>KDE Plasma Abstract 327 HD</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1309357</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>482</downloads>
+  <installedfile>/home/administrador/.local/share/wallpapers//KDE Plasma Abstract 327.png</installedfile>
+  <id>1309357</id>
+  <releasedate>2019-06-11</releasedate>
+  <summary>1920 X 1080&lt;br />
+No Logo option&lt;br />
+Like these? Click on the "impress" tag and you should see many of my KDE Plasma wallpapers.&lt;br />
+Big thanks and shout out to supporting creators and tech support :)&lt;br />
+mrcuve0 https://www.pling.com/u/mrcuve0/&lt;br />
+FreeFreeno https://www.opendesktop.org/u/freefreeno/&lt;br />
+l4K1 https://www.opendesktop.org/u/l4k1/ &lt;br />
+Shareorlikeit https://www.opendesktop.org/u/shareorlikeit/&lt;br />
+Please visit my profile page for more than 4000 custom wallpapers.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/b/f/f/b147ca7e419a45879c581aae438da386e55a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/b/f/f/b147ca7e419a45879c581aae438da386e55a.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1560248190/s/f8b5da383b5da208237467756b01d036/t/1562762188/o/1/KDE Plasma Abstract 327.png</payload>
+  <tags>wallpaper,artwork,cc-by,original-product,kde,plasma,impress,abstract,green</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>KDE Plasma Nebula 319 HD 4K</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1307943</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>71</rating>
+  <downloads>2319</downloads>
+  <installedfile>/home/administrador/.local/share/wallpapers//4K Kde Plasma Nebula 319 With Logo.png</installedfile>
+  <id>1307943</id>
+  <releasedate>2019-05-31</releasedate>
+  <summary>1920 X 1080   3840 X 2160&lt;br />
+No Logo&lt;br />
+Like these? Click on the "impress" tag and you should see many of my KDE Plasma wallpapers.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/f/d/4/e5a180c60804ec5d2fbbb02a149084327c86.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/f/d/4/e5a180c60804ec5d2fbbb02a149084327c86.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1559329715/s/fb8fe56534a634ccaef0c69bc69bac45/t/1564631315/o/1/4K Kde Plasma Nebula 319 With Logo.png</payload>
+  <tags>kde,plasma,nebula,impress,4k,cc-by,original-product,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>KDE Plasma Scenery 50 HD</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>charlie-henson</author>
+  <homepage>https://store.kde.org/p/1306400</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>2134</downloads>
+  <installedfile>/home/administrador/.local/share/wallpapers//KDE Plasma Scenery 50.png</installedfile>
+  <id>1306400</id>
+  <releasedate>2019-05-21</releasedate>
+  <summary>1920 X 1080&lt;br />
+No Logo&lt;br />
+This IS NOT an actual place, it’s a self created dramatic scenery.&lt;br />
+Like these? Click on the "impress" tag and you should see many of my KDE Plasma wallpapers.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/7/d/4/3a2629f4f54789c403586974ac27610ec5a5.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/7/d/4/3a2629f4f54789c403586974ac27610ec5a5.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1558430693/s/452733eab4cf69c5d85255fab0cc01fb/t/1564632134/o/1/KDE Plasma Scenery 50.png</payload>
+  <tags>cc-by,original-product,wallpaper,artwork,kde,plasma,impress,scenery,landscape</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

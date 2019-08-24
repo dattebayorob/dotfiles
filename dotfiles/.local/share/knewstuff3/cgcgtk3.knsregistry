@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Darkine-GTK</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Rokin</author>
+  <homepage>https://store.kde.org/p/1305725</homepage>
+  <licence></licence>
+  <version>2.1</version>
+  <rating>50</rating>
+  <downloads>3737</downloads>
+  <installedfile>/home/administrador/.themes//Darkine/*</installedfile>
+  <installedfile>/home/administrador/.themes//</installedfile>
+  <id>1305725</id>
+  <releasedate>2019-05-17</releasedate>
+  <summary>Darkine theme for GTK.&lt;br />
+&lt;br />
+This is based on the official (KDE) Breeze-GTK theme and use the Sweet WM icons (osx like).&lt;br />
+The main reason why i made this theme is to unify the appearances of GTK applications with the KDE theme.&lt;br />
+(This is the first time that i realize a GTK theme so be indulgent :) )&lt;br />
+&lt;br />
+You'll be able to get the full Darkine theme collection &lt;a href="https://www.pling.com/c/1304956" target="_blank" rel="nofollow">&lt;strong>Here&lt;/strong>&lt;/a>.&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>※ Manual installation :&lt;/strong>&lt;br />
+Extract the zip file to the themes directory : &lt;code>&lt;span style="color: #000000">
+~/.themes/&lt;/span>
+&lt;/code> or &lt;code>&lt;span style="color: #000000">
+/usr/share/themes/&lt;/span>
+&lt;/code> &lt;em>(create it if necessary).&lt;/em>&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>※ Known bug :&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>› Firefox / Thunderbird :&lt;/strong>&lt;br />
+&lt;em>The rendering is not perfect with dark theme, The main background of the selected tab and the highlighted text in the main menu follow bad or does not follow the colors of the GTK theme so I have tried to deal with that how i can.&lt;/em>&lt;br />
+&lt;br />
+To improve that, if you want keep the dark theme you can use the Firefox (WebExtension) theme specially made for it and available on &lt;a href="https://addons.mozilla.org/addon/darkine" target="_blank" rel="nofollow">addons.mozilla.org&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Alternative 1 :&lt;/strong> you can make Firefox (46+) ignore the GTK theme with the following commands examples :&lt;br />
+&lt;br />
+&lt;code>&lt;span style="color: #000000">
+#&amp;nbsp;For&amp;nbsp;KDE&amp;nbsp;Desktop&lt;br />env&amp;nbsp;GTK_THEME=Breeze:light&amp;nbsp;firefox&lt;br />env&amp;nbsp;GTK_THEME=Breeze:light&amp;nbsp;thunderbird&lt;br />#&amp;nbsp;For&amp;nbsp;Gnome&amp;nbsp;Desktop&lt;br />env&amp;nbsp;GTK_THEME=Adwaita:light&amp;nbsp;firefox&lt;br />env&amp;nbsp;GTK_THEME=Adwaita:light&amp;nbsp;thunderbird&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;em> * Note : The current Firefox (WebExtension) theme style only the main window/tab and keep the menu white. It can be used in addition or without the GTK theme.&lt;/em>&lt;br />
+&lt;br />
+&lt;strong>Alternative 2 :&lt;/strong> Change the GTK theme for content process only :&lt;br />
+To force Firefox to use a light theme (e.g. Adwaita) for web content only :&lt;br />
+&lt;br />
+&lt;ul>&lt;li> 1) Open about:config in the address bar.&lt;/li>&lt;li> 2) Create a new widget.content.gtk-theme-override string type entry &lt;em>(right mouse button &amp;gt; New &amp;gt; String).&lt;/em>&lt;/li>&lt;li> 3) Set the value to the light theme to use for rendering purposes &lt;em>(e.g. Adwaita:light).&lt;/em>&lt;/li>&lt;li> 4) Restart Firefox.&lt;/li>&lt;/ul>&lt;br />
+&lt;em>*ref : &lt;a href="https://wiki.archlinux.org/index.php/Firefox/Tweaks" target="_blank" rel="nofollow">Arch Wiki&lt;/a>.&lt;/em>&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>※ Credits:&lt;/strong>&lt;br />
+&lt;br />
+- Main CSS code : &lt;a href="https://github.com/KDE/breeze-gtk" target="_blank" rel="nofollow">Breeze-GTK&lt;/a>.&lt;br />
+- WM icons : &lt;a href="https://github.com/EliverLara/Sweet" target="_blank" rel="nofollow">Sweet&lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/2/3/b/73ba5bfb82b4cfcf5c8280af3af110722647.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/2/3/b/73ba5bfb82b4cfcf5c8280af3af110722647.jpg</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1558097461/s/2605f0f194f48c0ae338ce037387f4b3/t/1564631322/o/1/darkine.gtk.tar.gz</payload>
+  <tags>darkine,dark,gtk3,gtk-3.20,gnome,linux,unix,theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

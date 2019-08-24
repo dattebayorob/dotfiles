@@ -1,0 +1,23 @@
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kdeglobals][General]
+ColorScheme=Sleek
+
+[kdeglobals][Icons]
+Theme=Breeze Chameleon Dark
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[Wallpaper]
+Image=HD Kde Plasma Nebula 319 With Logo.png
+
+[plasmarc][Theme]
+name=Sleek
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Sleek
+
+

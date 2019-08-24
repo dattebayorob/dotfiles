@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Shamrock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1309964</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>1208</downloads>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Shamrock/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//</installedfile>
+  <id>1309964</id>
+  <releasedate>2019-06-15</releasedate>
+  <summary>Aurorae Theme, customized for the "Shamrock"  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1309959/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+ &lt;br />
+Link to Wallpaper "KDE Plasma Abstract 337 HD": &lt;a href="https://store.kde.org/p/1309647/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallpaper " KDE Plasma Abstract 327 HD":&lt;a href="https://store.kde.org/p/1309357/" target="_blank" rel="nofollow">Here&lt;/a> &lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">Charlie-Henson&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/3/6/8/55e40f3dc94d680a1129d19bfac85351af8c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/3/6/8/55e40f3dc94d680a1129d19bfac85351af8c.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1560585435/s/ebaa1b07661bbcae329ca208d5530f05/t/1562762152/o/1/Shamrock.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Quasi Deepin Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>caig</author>
+  <homepage>https://store.kde.org/p/1243749</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>63</rating>
+  <downloads>9567</downloads>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//QuasiDeepinDark/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//</installedfile>
+  <id>1243749</id>
+  <releasedate>2018-12-06</releasedate>
+  <summary>A KDE Plasma window decoration (KWin Aurorae) from scratch that mimics (quasi) &lt;a href="https://www.deepin.org" target="_blank" rel="nofollow">Deepin&lt;/a> &lt;em>15.5-15.7&lt;/em> dark theme as showed by the Deepin File Manager. Best to use with the &lt;a href="https://store.kde.org/p/1243748/" target="_blank" rel="nofollow">Quasi Deepin Dark color scheme&lt;/a>.&lt;br />
+&lt;br />
+Created by request. Released under &lt;a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow">CC BY-SA 4.0 license&lt;/a>.&lt;br />
+&lt;br />
+---&lt;br />
+&lt;br />
+Alternatives:&lt;br />
+- &lt;a href="https://store.kde.org/p/1237919/" target="_blank" rel="nofollow">Quasi Deepin&lt;/a> light (Deepin 15.5-15.7 decoration style)&lt;br />
+- &lt;a href="https://store.kde.org/p/1275374/" target="_blank" rel="nofollow">Quasi Deepin II&lt;/a> light (Deepin 15.8 decoration style)&lt;br />
+- Quasi Deepin II Dark soon available (Deepin 15.8 decoration style)</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/6/0/1/fddcecc8696a62a5036e7f76f4e23a3326f0.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/6/0/1/fddcecc8696a62a5036e7f76f4e23a3326f0.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1544115510/s/037ce341f0f97036d644f88be0f652d5/t/1564632206/o/1/QuasiDeepinDark.tar.gz</payload>
+  <tags>deepin,dark,linux,unix,theme,kde,plasma,cc-by-sa,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Darkine KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Rokin</author>
+  <homepage>https://store.kde.org/p/1226049</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>50</rating>
+  <downloads>4855</downloads>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Darkine-classic/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Darkine-round/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//</installedfile>
+  <id>1226049</id>
+  <releasedate>2019-05-13</releasedate>
+  <summary>&lt;strong>Darkine&lt;/strong> - A dark theme for KDE Plasma.&lt;br />
+&lt;br />
+You'll be able to get the full theme collection here : &lt;a href="https://www.pling.com/c/1304956" target="_blank" rel="nofollow">&lt;strong>Darkine collection&lt;/strong>&lt;/a>.&lt;br />
+For better looking please use this theme with &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">&lt;strong>Kvantum engine&lt;/strong>&lt;/a>.&lt;br />
+&lt;br />
+The theme / collection contain :&lt;br />
+&lt;br />
+&lt;ul>&lt;li> Plasma - Look-and-Feel&lt;/li>&lt;li> Plasma - Desktop Theme&lt;/li>&lt;li> Plasma - Color Scheme&lt;/li>&lt;li> Aurorae Theme (Classic and Mac/Sweet style)&lt;/li>&lt;li> Kvantum Theme&lt;/li>&lt;li> Icon-pack&lt;/li>&lt;li> Wallpapers&lt;/li>&lt;li> SDDM Theme (build from scratch with QtQuick2, without KDE dependencies).&lt;/li>&lt;li> Firefox Quantum theme &lt;a href="https://addons.mozilla.org/fr/firefox/addon/darkine" target="_blank" rel="nofollow">at addons.mozilla.org&lt;/a>.&lt;/li>&lt;/ul></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/c/d/5/a56316fd8737930157f504eea9280dc8edc5.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/c/d/5/a56316fd8737930157f504eea9280dc8edc5.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1557758003/s/4ea7fbc03e2cea5cd1c4b31cbd54c744/t/1564631239/o/1/darkine.aurorae-theme.tar.gz</payload>
+  <tags>linux,unix,theme,kde,gplv3,original-product,darkine,dark,plasma,kvantum,rokin</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Materia KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229137</homepage>
+  <licence></licence>
+  <version>20190319</version>
+  <rating>63</rating>
+  <downloads>23831</downloads>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Materia-Light/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Materia-Dark/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//</installedfile>
+  <id>1229137</id>
+  <releasedate>2019-03-19</releasedate>
+  <summary>Materia KDE - it's port Materia GTK Theme for Plasma 5 desktop.&lt;br />
+Available 2 Aurorae themes:&lt;br />
+- Materia Light&lt;br />
+- Materia Dark</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1552973434/s/978fed7088e7e7f38e9bf47cd08a311b/t/1562580691/o/1/aurorae-themes.tar.gz</payload>
+  <tags>aurorae,materia,material,linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Breeze Chameleon</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1292166</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>3443</downloads>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Breeze-Chameleon/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//</installedfile>
+  <id>1292166</id>
+  <releasedate>2019-05-06</releasedate>
+  <summary>Aurorae Theme, customized for the Breeze Chameleon Plasma Theme, which you can download: &lt;a href="https://www.opendesktop.org/p/1292162/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+The author of the wallpaper: charlie-henson: &lt;a href="https://www.opendesktop.org/u/charlie-henson/" target="_blank" rel="nofollow">Here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/7/4/e/8a3b2aa3e97eb691df868533cc2c9e88952a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/7/4/e/8a3b2aa3e97eb691df868533cc2c9e88952a.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1557136869/s/fc3eb3f8a24eae16a855dbd9334662b9/t/1564632098/o/1/Breeze-Chameleon.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Pitch Black</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>freefreeno</author>
+  <homepage>https://store.kde.org/p/1308314</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>4604</downloads>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Pitch-Black/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//</installedfile>
+  <id>1308314</id>
+  <releasedate>2019-06-03</releasedate>
+  <summary>I made this aurorae theme for the Pitch Black plasma theme for those of you who do not like the Breeze window decorations. I made it from the Materia theme so it is nice .Credit goes to them for making such a nice theme. You can find the original Materia theme here:  https://store.kde.org/p/1229137&lt;br />
+&lt;br />
+Pitch black color scheme&lt;br />
+https://www.pling.com/p/1298939&lt;br />
+&lt;br />
+Plasma theme&lt;br />
+https://www.pling.com/p/1298943&lt;br />
+&lt;br />
+Pitch Black gtk theme is here:&lt;br />
+https://www.pling.com/p/1308313&lt;br />
+&lt;br />
+Newaita icons&lt;br />
+https://www.pling.com/p/1243493</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/5/5/5/22b9cde189043d87654b9837bb3a0c91d343.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/5/5/5/22b9cde189043d87654b9837bb3a0c91d343.jpg</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1559615870/s/976365916866a6a89fa414fcbd312c67/t/1564631229/o/1/Pitch-Black.tar.gz</payload>
+  <tags>kde,plasma5,plasma,kdeplasma,gplv3,linux,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Sleek</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1308986</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>2204</downloads>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//Sleek/*</installedfile>
+  <installedfile>/home/administrador/.local/share/aurorae/themes//</installedfile>
+  <id>1308986</id>
+  <releasedate>2019-06-08</releasedate>
+  <summary>Aurorae Theme, customized for the "Sleek"  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1308980/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallparer " KDE Plasma Nebula 319 HD 4K": &lt;a href="https://www.pling.com/p/1307943/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+The author of the wallpaper: charlie-henson: &lt;a href="https://www.opendesktop.org/u/charlie-henson/" target="_blank" rel="nofollow">Here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/e/9/4/9f73bf8ecbb22416456bea854f57eb3dd400.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/e/9/4/9f73bf8ecbb22416456bea854f57eb3dd400.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1560020698/s/ba88647d782320be06f87ea94fb17763/t/1564631280/o/1/Sleek.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Shamrock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1309965</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>1007</downloads>
+  <installedfile>/home/administrador/.local/share/color-schemes//Shamrock.colors</installedfile>
+  <id>1309965</id>
+  <releasedate>2019-06-15</releasedate>
+  <summary>Plasma Color Scheme, customized for the "Shamrock"  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1309959/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallpaper "KDE Plasma Abstract 337 HD": &lt;a href="https://store.kde.org/p/1309647/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallpaper " KDE Plasma Abstract 327 HD":&lt;a href="https://store.kde.org/p/1309357/" target="_blank" rel="nofollow">Here&lt;/a> &lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">Charlie-Henson&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/d/6/a/b84298c593dfde8eb124107797116b8ed742.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/d/6/a/b84298c593dfde8eb124107797116b8ed742.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1560585307/s/bc9439834fea2e8ac1a1c083a520e77d/t/1562762141/o/1/Shamrock.colors</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Pitch-Black</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>freefreeno</author>
+  <homepage>https://store.kde.org/p/1298939</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>3968</downloads>
+  <installedfile>/home/administrador/.local/share/color-schemes//color-schemes/*</installedfile>
+  <installedfile>/home/administrador/.local/share/color-schemes//</installedfile>
+  <id>1298939</id>
+  <releasedate>2019-06-03</releasedate>
+  <summary>Color scheme for Pitch-Black plasma theme. I am in the process of posting an entire theme with everything from look-and-feel to GTK theme to match. This a entriely new theme compared to what it was. Nearly every color has been changed for better looking theme. The Plasma theme that matches now has blur and it is also a new theme as well. Everything has been changed and updated.&lt;br />
+The theme is dark but the view background is more a grey than black therefore the darkness does not make it hard to read. The theme looks great to me and I hope you all like it. &lt;br />
+&lt;br />
+The Plasma theme is here:&lt;br />
+https://www.opendesktop.org/p/1298943&lt;br />
+&lt;br />
+Icons are here the Newaita icons and you can find them here:&lt;br />
+https://github.com/cbrnix/Newaita</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/8/6/0/d84a7553263ea12378a1c4cd29a44dc4573d.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/8/6/0/d84a7553263ea12378a1c4cd29a44dc4573d.jpg</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1559613819/s/2dfdf676abd5d46ebfce55a0e4d9a831/t/1564631212/o/1/color-schemes.tar.gz</payload>
+  <tags>kde,plasma,kdeplasma,plasma5,gplv3,original-product,linux,unix,theme,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Quasi Deepin Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>caig</author>
+  <homepage>https://store.kde.org/p/1243748</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>38075</downloads>
+  <installedfile>/home/administrador/.local/share/color-schemes//QuasiDeepinDark.colors</installedfile>
+  <id>1243748</id>
+  <releasedate>2018-06-27</releasedate>
+  <summary>Made for &lt;a href="https://store.kde.org/p/1243749/" target="_blank" rel="nofollow">Quasi Deepin Dark&lt;/a> KDE KWin Aurorae decoration. It mimics the palette used by the &lt;a href="https://www.deepin.org" target="_blank" rel="nofollow">Deepin&lt;/a> File Manager with dark theme.&lt;br />
+&lt;br />
+Created by request. Released under &lt;a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow">CC BY-SA 4.0 license&lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/4/4/1/1022d98f61eabb380795ef8bdbbf1f1c2906.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/4/4/1/1022d98f61eabb380795ef8bdbbf1f1c2906.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1530104537/s/011ae62dd797c5d9269630257552b449/t/1564632201/o/1/QuasiDeepinDark.colors</payload>
+  <tags>cc-by-sa,original-product,linux,unix,theme,kde,plasma,colorscheme,deepin,dark</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Materia KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1229140</homepage>
+  <licence></licence>
+  <version>20190319</version>
+  <rating>63</rating>
+  <downloads>20278</downloads>
+  <installedfile>/home/administrador/.local/share/color-schemes//MateriaDark.colors</installedfile>
+  <installedfile>/home/administrador/.local/share/color-schemes//MateriaLight.colors</installedfile>
+  <installedfile>/home/administrador/.local/share/color-schemes//</installedfile>
+  <id>1229140</id>
+  <releasedate>2019-03-19</releasedate>
+  <summary>Materia KDE - it's port Materia GTK Theme for Plasma 5 desktop.&lt;br />
+Available 2 color schemes:&lt;br />
+- Materia Light&lt;br />
+- Materia Dark&lt;br />
+&lt;br />
+NOTE: BREEZE ENGINE NOT SUPPORTED!!! USE THIS COLORS WITH KVANTUM ENGINE:&lt;br />
+https://www.opendesktop.org/p/1005410&lt;br />
+AND MATERIA KVANTUM THEME:&lt;br />
+https://www.opendesktop.org/p/1229126/</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/0/0/d/1/55db14d868a81f04fc880a6603f76e59014f.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1552974093/s/c8555a023edfaf9077fb8d54cd54356a/t/1562580680/o/1/color-schemes.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme,materia,material</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Sleek</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1308989</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>1861</downloads>
+  <installedfile>/home/administrador/.local/share/color-schemes//Sleek.colors</installedfile>
+  <id>1308989</id>
+  <releasedate>2019-06-08</releasedate>
+  <summary>Plasma Color Scheme, customized for the "Sleek"  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1308980/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+Link to Wallparer " KDE Plasma Nebula 319 HD 4K": &lt;a href="https://www.pling.com/p/1307943/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+The author of the wallpaper: charlie-henson: &lt;a href="https://www.opendesktop.org/u/charlie-henson/" target="_blank" rel="nofollow">Here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/8/5/4/5ce503ed80c248d76e1bbdde21b4413ddd45.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/8/5/4/5ce503ed80c248d76e1bbdde21b4413ddd45.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1560008356/s/45f7b99684e077784d143542090e0c49/t/1564631270/o/1/Sleek.colors</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Breeze Chameleon</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1292165</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>7753</downloads>
+  <installedfile>/home/administrador/.local/share/color-schemes//BreezeChameleon.colors</installedfile>
+  <id>1292165</id>
+  <releasedate>2019-02-27</releasedate>
+  <summary>Color scheme, customized for the Breeze Chameleon Plasma Theme, which you can download: &lt;a href="https://www.opendesktop.org/p/1292162/" target="_blank" rel="nofollow">Here&lt;/a>&lt;br />
+&lt;br />
+The author of the wallpaper: charlie-henson: &lt;a href="https://www.opendesktop.org/u/charlie-henson/" target="_blank" rel="nofollow">Here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/2/e/e/8c19ea464566ca5dca0f83d5ab01bf77882c.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/2/e/e/8c19ea464566ca5dca0f83d5ab01bf77882c.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1551274805/s/48cd6aba6d6ba70972e96d1e84b556a2/t/1564632089/o/1/BreezeChameleon.colors</payload>
+  <tags>linux,unix,theme,kde,plasma,colorscheme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Darkine KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Rokin</author>
+  <homepage>https://store.kde.org/p/1226045</homepage>
+  <licence></licence>
+  <version>2.1</version>
+  <rating>60</rating>
+  <downloads>2834</downloads>
+  <installedfile>/home/administrador/.local/share/color-schemes//Darkine.colors</installedfile>
+  <installedfile>/home/administrador/.local/share/color-schemes//</installedfile>
+  <id>1226045</id>
+  <releasedate>2019-05-29</releasedate>
+  <summary>&lt;strong>Darkine&lt;/strong> - A dark theme for KDE Plasma.&lt;br />
+&lt;br />
+You'll be able to get the full theme collection here : &lt;a href="https://www.pling.com/c/1304956" target="_blank" rel="nofollow">&lt;strong>Darkine collection&lt;/strong>&lt;/a>.&lt;br />
+For better looking please use this theme with &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">&lt;strong>Kvantum engine&lt;/strong>&lt;/a>.&lt;br />
+&lt;br />
+The theme / collection contain :&lt;br />
+&lt;br />
+&lt;ul>&lt;li> Plasma - Look-and-Feel&lt;/li>&lt;li> Plasma - Desktop Theme&lt;/li>&lt;li> Plasma - Color Scheme&lt;/li>&lt;li> Aurorae Theme (Classic and Mac/Sweet style)&lt;/li>&lt;li> Kvantum Theme&lt;/li>&lt;li> Icon-pack&lt;/li>&lt;li> Wallpapers&lt;/li>&lt;li> SDDM Theme (build from scratch with QtQuick2, without KDE dependencies).&lt;/li>&lt;li> Firefox Quantum theme &lt;a href="https://addons.mozilla.org/fr/firefox/addon/darkine" target="_blank" rel="nofollow">at addons.mozilla.org&lt;/a>.&lt;/li>&lt;/ul></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/c/d/5/a56316fd8737930157f504eea9280dc8edc5.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/c/d/5/a56316fd8737930157f504eea9280dc8edc5.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1559118271/s/1a54cfe98f4800dc5edd743339d605bc/t/1564631244/o/1/darkine.color-schemes.tar.gz</payload>
+  <tags>gplv3,original-product,colorscheme,linux,unix,kde,theme,darkine,dark,plasma,kvantum,rokin</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

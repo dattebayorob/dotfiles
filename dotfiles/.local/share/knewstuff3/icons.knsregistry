@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Deepin Icons for KDE Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>caig</author>
+  <homepage>https://store.kde.org/p/1257656</homepage>
+  <licence></licence>
+  <version>0.4.1 beta</version>
+  <rating>70</rating>
+  <downloads>24628</downloads>
+  <installedfile>/home/administrador/.local/share/icons//Deepin Dark/*</installedfile>
+  <installedfile>/home/administrador/.local/share/icons//</installedfile>
+  <id>1257656</id>
+  <releasedate>2019-02-26</releasedate>
+  <summary>The &lt;a href="https://www.deepin.org" target="_blank" rel="nofollow">Deepin&lt;/a> icon theme adapted to the KDE Plasma desktop.&lt;br />
+&lt;br />
+Available in two versions:&lt;br />
+* Light for &lt;a href="https://store.kde.org/p/1270551/" target="_blank" rel="nofollow">Quasi Deepin&lt;/a> and &lt;a href="https://store.kde.org/p/1277447/" target="_blank" rel="nofollow">Quasi Deepin II&lt;/a>&lt;br />
+* Dark for &lt;a href="https://store.kde.org/p/1243751/" target="_blank" rel="nofollow">Quasi Deepin Dark&lt;/a> and &lt;a href="https://store.kde.org/p/1280676/" target="_blank" rel="nofollow">Quasi Deepin Dark II&lt;/a>&lt;br />
+&lt;br />
+Important:&lt;br />
+you have to install the Papirus and Papirus-Dark icon themes too via your distro package (easier) or from the KDE Store: &lt;a href="https://store.kde.org/p/1166289/" target="_blank" rel="nofollow">Papirus&lt;/a>.&lt;br />
+* Deepin Light requires Papirus&lt;br />
+* Deepin Dark requires Deepin Light and Papirus-Dark&lt;br />
+&lt;br />
+Created by request. Released under GPLv3 license.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/2/c/7/ae12a3efb3cb9fb1606553a45eaef349e799.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/2/c/7/ae12a3efb3cb9fb1606553a45eaef349e799.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1551191160/s/04c2cc42a85681ab64e01593d2e080fd/t/1564632211/o/1/DeepinDark.tar.gz</payload>
+  <tags>gplv3,linux,unix,icon-theme,deepin</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Papirus</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1166289</homepage>
+  <licence></licence>
+  <version>20190701</version>
+  <rating>87</rating>
+  <downloads>431233</downloads>
+  <installedfile>/home/administrador/.local/share/icons//papirus-folders-master/*</installedfile>
+  <installedfile>/home/administrador/.local/share/icons//</installedfile>
+  <id>1166289</id>
+  <releasedate>2019-07-01</releasedate>
+  <summary>Papirus - it's free and open source SVG-based icon theme for Linux with material and flat style.&lt;br />
+All elements have clear distinction and outlines. Also main feature - it's jucy colors tone.&lt;br />
+&lt;br />
+Papirus support hardcode-tray script:&lt;br />
+https://github.com/bil-elmoussaoui/Hardcode-Tray/&lt;br />
+&lt;br />
+Folder Color support:&lt;br />
+http://foldercolor.tuxfamily.org&lt;br />
+&lt;br />
+Dolphin Folder Color support:&lt;br />
+https://github.com/audoban/dolphin-folder-color&lt;br />
+&lt;br />
+Papirus Folders script:&lt;br />
+https://github.com/PapirusDevelopmentTeam/papirus-folders&lt;br />
+&lt;br />
+And KDE color scheme:&lt;br />
+https://techbase.kde.org/Development/Tutorials/Plasma5/ThemeDetails#Colors</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/1/7/2/017b5ab37ec7309285f12e61770f38244d68.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1511503431/s/558766d811d323af613ca3c042de8846/t/1562580696/o/1/1511503431-master.tar.gz</payload>
+  <tags>linux,unix,gplv3,papirus,icon-theme,icons,material</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Darkine</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Rokin</author>
+  <homepage>https://store.kde.org/p/1304954</homepage>
+  <licence></licence>
+  <version>2.1</version>
+  <rating>50</rating>
+  <downloads>4725</downloads>
+  <installedfile>/home/administrador/.local/share/icons//darkine/*</installedfile>
+  <installedfile>/home/administrador/.local/share/icons//</installedfile>
+  <id>1304954</id>
+  <releasedate>2019-05-17</releasedate>
+  <summary>Icon-pack for KDE Darkine (or dark themes) based on the official Breeze theme as well and as on the Papyrus theme for the icons of action bar.&lt;br />
+&lt;br />
+You'll be able to get the full theme collection here : &lt;a href="https://www.pling.com/c/1304956" target="_blank" rel="nofollow">&lt;strong>Darkine collection&lt;/strong>&lt;/a>.&lt;br />
+&lt;br />
+The theme / collection contain :&lt;br />
+&lt;br />
+&lt;ul>&lt;li> Plasma - Look-and-Feel&lt;/li>&lt;li> Plasma - Desktop Theme&lt;/li>&lt;li> Plasma - Color Scheme&lt;/li>&lt;li> Aurorae Theme (Classic and Mac/Sweet style)&lt;/li>&lt;li> Kvantum Theme&lt;/li>&lt;li> Icon-pack&lt;/li>&lt;li> Wallpapers&lt;/li>&lt;li> SDDM Theme (build from scratch with QtQuick2, without KDE dependencies).&lt;/li>&lt;li> Firefox Quantum theme &lt;a href="https://addons.mozilla.org/fr/firefox/addon/darkine" target="_blank" rel="nofollow">at addons.mozilla.org&lt;/a>.&lt;/li>&lt;/ul></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/a/2/6/270b047aa345dfa3c43a90cfc904d25e5c55.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/a/2/6/270b047aa345dfa3c43a90cfc904d25e5c55.jpg</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/download/id/1558096653/s/2e5c366600d1aadd964e2ea3de12e8b8/t/1564631248/o/1/darkine.icons.tar.gz</payload>
+  <tags>darkine,plasma,kde,dark,dark-theme,gplv3,linux,unix,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

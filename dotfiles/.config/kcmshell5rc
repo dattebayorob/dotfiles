@@ -1,0 +1,7 @@
+[DownloadDialog Settings]
+Window-Maximized 1080x1920=true
+
+[KFileDialog Settings]
+Recent Files[$e]=scrotClient,file:$HOME/Downloads/Amoled Quasi Deepin Dark.colors,file:$HOME/Documents/packages/linux-scripts/utils/scrotClient
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=0
